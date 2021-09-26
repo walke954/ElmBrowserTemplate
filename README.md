@@ -2,8 +2,10 @@
 
 ## Download
 
-- wget https://github.com/walke954/ElmBrowserTemplate/archive/master.tar.gz
+```
+wget https://github.com/walke954/ElmBrowserTemplate/archive/master.tar.gz
 
-- tar xvzf master.tar.gz
+tar xvzf master.tar.gz
 
-- rm master.tar.gz
+rm master.tar.gz
+```
